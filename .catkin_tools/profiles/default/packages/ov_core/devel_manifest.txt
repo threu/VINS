@@ -1,0 +1,8 @@
+open_vins/ov_core
+/home/evk/openvins_ws/devel/.private/ov_core/lib/libov_core_lib.so /home/evk/openvins_ws/devel/lib/libov_core_lib.so
+/home/evk/openvins_ws/devel/.private/ov_core/lib/ov_core/test_profile /home/evk/openvins_ws/devel/lib/ov_core/test_profile
+/home/evk/openvins_ws/devel/.private/ov_core/lib/ov_core/test_tracking /home/evk/openvins_ws/devel/lib/ov_core/test_tracking
+/home/evk/openvins_ws/devel/.private/ov_core/lib/ov_core/test_webcam /home/evk/openvins_ws/devel/lib/ov_core/test_webcam
+/home/evk/openvins_ws/devel/.private/ov_core/lib/pkgconfig/ov_core.pc /home/evk/openvins_ws/devel/lib/pkgconfig/ov_core.pc
+/home/evk/openvins_ws/devel/.private/ov_core/share/ov_core/cmake/ov_coreConfig-version.cmake /home/evk/openvins_ws/devel/share/ov_core/cmake/ov_coreConfig-version.cmake
+/home/evk/openvins_ws/devel/.private/ov_core/share/ov_core/cmake/ov_coreConfig.cmake /home/evk/openvins_ws/devel/share/ov_core/cmake/ov_coreConfig.cmake
